@@ -769,7 +769,7 @@ button {
 .dummy_text {
     width: 79%;
     margin: 0 auto;
-    font-size: 16px;
+    font-size: 20px;
     color: #000;
     text-align: center;
     padding-top: 30px;
@@ -1045,4 +1045,8 @@ button {
     background-color: #027d45;
     color: white;
     height: 100%;
+}
+
+.client_section_2 img {
+    max-height: 200px;
 }
