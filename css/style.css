@@ -1050,3 +1050,8 @@ button {
 .client_section_2 img {
     max-height: 200px;
 }
+
+.products_section {
+    width: 100%;
+    padding-top: 90px;
+}
