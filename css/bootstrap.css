@@ -5761,7 +5761,7 @@ button.close {
   align-items: center;
   width: 100%;
   transition: -webkit-transform 0.6s ease;
-  transition: transform 0.6s ease;
+  /* transition: transform 0.6s ease; */
   transition: transform 0.6s ease, -webkit-transform 0.6s ease;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -5771,7 +5771,7 @@ button.close {
 
 @media screen and (prefers-reduced-motion: reduce) {
   .carousel-item {
-    transition: none;
+    /* transition: none; */
   }
 }
 
